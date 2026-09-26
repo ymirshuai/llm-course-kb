@@ -1,0 +1,2002 @@
+[
+ {
+  "text": "QLoRA",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "vLLM",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "DPO",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "PPO",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "RLHF",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "SFT",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "PEFT",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "TRL",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "GGUF",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Ollama",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "llama.cpp",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "DeepSpeed",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "FlashAttention",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "BM25",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Faiss",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Milvus",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Chroma",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Rerank",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "GraphRAG",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "HyDE",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "ColBERT",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "BGE",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "M3E",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Gradio",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Streamlit",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "FastAPI",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "uvicorn",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "RAGAS",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Dify",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "LlamaIndex",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "HuggingFace",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Tokenizer",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Embedding",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Chunking",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Function Calling",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Agent",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "LangChain",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "LCEL",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "PyTorch",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "TensorFlow",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "YOLO",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Unet",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Stable Diffusion",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "ControlNet",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "ChatGLM",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Qwen",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "DeepSeek",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Llama",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Mistral",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Cursor",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Copilot",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "NotebookLM",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "Prompt",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "RAG",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "LoRA",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "neuralflow",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "thinking",
+  "weight": 4,
+  "lang": "zh"
+ },
+ {
+  "text": "bounding",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "sigmoid",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "step1",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "step2",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "description",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "transformers",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "temperature",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "step3",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "session_id",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "autogen",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "os.environ",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "trainer",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "dashscope_api_key",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "analyseexcel",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "network",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "file_name",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "www.example.com",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "deepseek-v3",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "problems",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "iou",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "svd",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "thank",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "np.array",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "chatgpt",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "step4",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "register_tool",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "top-k",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "agentic",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "kimi",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "hh001_dept",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "simple_toolchain.py",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "file_type",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "inspectexcel",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "yolo-v1",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "diffusion",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "location",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "target",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "imagenet",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "r-cnn",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "parameters",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "chattongyi",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "hf_endpoint",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "hf-mirror.com",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "root/autodl-tmp/models",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "one-shot",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "few-shot",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "task_id",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "comment",
+  "weight": 3,
+  "lang": "zh"
+ },
+ {
+  "text": "boston",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "boxes",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "docstring",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "langchain_core.prompts",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "webui",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "code_interpreter",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "truncation",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "inputs",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "request_id",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "rek",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "yolov13",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "ultralytics",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "real-time",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "functiontool",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "retrieve_tool",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "simpledirectoryreader",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "hf_home",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "bert-base-chinese",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "language",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "docling",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "step_by_step_analysis",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "reasoning_summary",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "relevant_pages",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "final_answer",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "echarts",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "cache_dir",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "out_features",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "eager",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "inplace",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "one-stage",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "what",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "directoryloader",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "vectorstoreindex",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "llm_cfg",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "system_message",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "my_image_gen",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "retrieval-augmented",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "prompt.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "qwen.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "lcel_task_chain",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "tf.function",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "execution",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "deepseek-r1",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "project",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "two-stage",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "scores",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "chatprompttemplate",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "qa_prompt",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "documents",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "qwen-agent-multi-files.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "required",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "step5",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "tokenized_datasets",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "data_collator",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "num_labels",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "output_dir",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "union",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "create_agent",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "autotokenizer",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "banana",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "resp.status_code",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "element.tag.endswith",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "ceo",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "result_format",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "composer",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "generated_text",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "sgd",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "learning_rate",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "verbose",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "savedmodel",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "faster",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "confidence",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "calling",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "stroutputparser",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "aapl",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "system_instruction",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "params",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "step6",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "zero-shot-classification",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "classifier",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "tokenization",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "max_length",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "compute_metrics",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "return_tensors",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "nano",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "world",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "contents",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "ensure_ascii",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "chunk_overlap",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "user_prompt",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "text_splitter.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "full_zip_url",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "extract_dir",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "moe",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "opus",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "mcp",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "dashscope.generation.call",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "response.output.choices",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "lingma",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "pandas",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "flask",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "hospital_name",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "chatmodel",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "load_tools",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "messagesplaceholder",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "positive",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "operation",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "nlp",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "adagrad",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "model_name",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "input_data",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "lightning",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "end-to-end",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "yolov4",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "once",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "unified",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "box_best",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "yolov3",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "submission.csv",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "category_id",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "speed",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "framework",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "inference",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "image_path",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "textloader",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "settings.llm",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "settings.embed_model",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "acting",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "model_server",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "top_p",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "json5.dumps",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "image_url",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "encoder-only",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "decoder-only",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "encoder-decoder",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "datacollatorwithpadding",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "predictions",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "training_args",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "predicted_class_id",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "stable",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "least",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "timestamp",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "s_temp",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "garbage",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "ppt",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "while",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "content_chunks.append",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "prompts.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "literal",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "number",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "pdf_mineru.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "err_msg",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "hello",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "gpt-5.5",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "message.content",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "get_current_weather",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "tool_response",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "codebuddy",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "app.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "total_beds",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "expression",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "langchain.agents",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "llm-math",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "count_lines",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "hostname",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "conversableagent",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "groupchatmanager",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "round_robin",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "snapshot_download",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "model_dir",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "input_ids",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "switch",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "runtime",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "googlenet",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "resnet",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "mae",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "mse",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "rmsprop",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "activation",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "tf.device",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "stride",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "dilation",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "groups",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "distributeddataparallel",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "tflite",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "visual",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "top-5",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "plc",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "mlp",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "complex",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "kennel_size",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "filters",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "filter_3",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "rpn",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "grid",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "accuracy",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "yolov9",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "preprocess",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "postprocess",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "imgsz",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "train/images",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "yolo-steel-predict.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "fps",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "chains",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "registry",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "get_weather",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "streaming",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "userproxyagent",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "file_dir",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "utf-8",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "embedding-v2",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "llama_index.core.agent",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "llama_index.core.tools",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "reactagent.from_tools",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "os.getenv",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "generate_cfg",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "qwen_agent.agents",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "function_list",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "qwen_agent.tools.base",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "basetool",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "automodel.from_pretrained",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "batched",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "trainingarguments",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "forward",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "backward",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "step7",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "prefix",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "ping_tool",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "dns_tool",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "p-tuning",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "low-rank",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "adaptation",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "alternative",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "scipy.linalg",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "gemini-3.8-flash",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "faq",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "httpstatus.ok",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "resp.output",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "resp.usage",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "embedding.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "dataset-1255932437.cos.ap",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "table.rows",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "md_table.append",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "base_image",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "want_image",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "top-3",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "rag-challenge-2",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "structured",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "boolean",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "result.get",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "acm",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "mythos",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "fable",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "sonnet",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "xai",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "codex",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "review",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "install",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "functions",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "current_locals",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "message.tool_calls",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "fn_name",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "cursorrules",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "cmd/ctrl",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "data.xlsx",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "hospital_id",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "hospital_district",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "department_name",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "ward_id",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "ward_name",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "occupied_beds",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "occupancy_rate",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "special_status",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "dept01",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "dept05",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "input_variables",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "company",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "makes",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "langchain_community.llms",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "colorful",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "socks",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "wikipedia",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "agent.invoke",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "langchain_core.tools",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "calculator",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "conversationchain.py",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "helpful",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "get_session_history",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "input_messages_key",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "history_messages_key",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "configurable",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "conversation.invoke",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "there",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "tool_names",
+  "weight": 2,
+  "lang": "zh"
+ },
+ {
+  "text": "agent_scratchpad",
+  "weight": 2,
+  "lang": "zh"
+ }
+]

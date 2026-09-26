@@ -1,0 +1,434 @@
+[
+ {
+  "file": "dd525790-c5fe-11ef-afb1-ca73d34aaa2c-v8_f2_t1_WNGcPzvH.mp4",
+  "duration_sec": 9168,
+  "platform_time": "2024-12-30 00:06:29",
+  "diff_sec": 0,
+  "course": "demo课",
+  "lesson_no": 1,
+  "lesson_title": "文件自动处理AutoGPT"
+ },
+ {
+  "file": "1856a872-6557-11ef-95b8-6efd611a9cea-v8_f2_t1_T6K7SwSg.mp4",
+  "duration_sec": 9703,
+  "platform_time": "2024-08-29 00:03:41",
+  "diff_sec": 0,
+  "course": "demo课",
+  "lesson_no": 2,
+  "lesson_title": "支小助"
+ },
+ {
+  "file": "adda6426-354d-11f0-89ab-0eca2635a806-v8_f2_t1_3hFvxtCg.mp4",
+  "duration_sec": 2509,
+  "platform_time": "2025-05-20 15:40:19",
+  "diff_sec": 0,
+  "course": "demo课",
+  "lesson_no": 3,
+  "lesson_title": "教育行业核心demo实战1-拍照搜知识点视频"
+ },
+ {
+  "file": "190eb2ca-3205-11f0-8014-c2a469b4820b-v8_f2_t1_0nfil42D.mp4",
+  "duration_sec": 5361,
+  "platform_time": "2025-05-16 11:23:12",
+  "diff_sec": 0,
+  "course": "demo课",
+  "lesson_no": 4,
+  "lesson_title": "教育行业核心demo实战2-自动化出题与智能组卷"
+ },
+ {
+  "file": "acef69ba-351d-11f0-a0f4-062296c9cb0a-v8_f2_t1_q6AJXd0L.mp4",
+  "duration_sec": 2598,
+  "platform_time": "2025-05-20 09:56:42",
+  "diff_sec": 0,
+  "course": "demo课",
+  "lesson_no": 5,
+  "lesson_title": "教育行业核心demo实战3-知识点掌握程度检验"
+ },
+ {
+  "file": "2bcaf30e-3608-11f0-b36b-b64c515c397e-v8_f2_t1_1bCn1lMu.mp4",
+  "duration_sec": 7773,
+  "platform_time": "2025-05-21 13:55:17",
+  "diff_sec": 0,
+  "course": "demo课",
+  "lesson_no": 6,
+  "lesson_title": "财务部门核心demo实战1-AI识别财务表格的数字"
+ },
+ {
+  "file": "8cf80be4-3608-11f0-9618-8615c776cee9-v8_f2_t1_Sn76olWb.mp4",
+  "duration_sec": 5738,
+  "platform_time": "2025-05-21 13:58:00",
+  "diff_sec": 1,
+  "course": "demo课",
+  "lesson_no": 7,
+  "lesson_title": "财务部门核心demo实战2-AI财务表格准确率的提升"
+ },
+ {
+  "file": "418dc24c-20ec-11f0-987b-e6dafcc2195b-v8_f2_t1_6YCOYsHT.mp4",
+  "duration_sec": 5798,
+  "platform_time": "2025-04-24 17:12:33",
+  "diff_sec": 0,
+  "course": "demo课",
+  "lesson_no": 8,
+  "lesson_title": "人力资源部门核心demo实战1-数字人培训视频"
+ },
+ {
+  "file": "8df05522-3a15-11f0-8787-963ed87b4248-v8_f2_t1_RWabYidA.mp4",
+  "duration_sec": 2662,
+  "platform_time": "2025-05-26 17:41:09",
+  "diff_sec": 1,
+  "course": "demo课",
+  "lesson_no": 9,
+  "lesson_title": "人力资源部门核心demo实战2-AI培训对练"
+ },
+ {
+  "file": "f9064612-4070-11f0-b80f-5ae61390b8b1-v8_f2_t1_U0WP47Lu.mp4",
+  "duration_sec": 3167,
+  "platform_time": "2025-06-03 19:50:40",
+  "diff_sec": 0,
+  "course": "demo课",
+  "lesson_no": 10,
+  "lesson_title": "电商行业核心demo实战1-电商评论区互动助手"
+ },
+ {
+  "file": "9063a1a0-40f6-11f0-8208-9a7fb5a5d5ce-v8_f2_t1_unjQEVCp.mp4",
+  "duration_sec": 2052,
+  "platform_time": "2025-06-04 11:46:57",
+  "diff_sec": 1,
+  "course": "demo课",
+  "lesson_no": 11,
+  "lesson_title": "泛娱乐内容行业核心demo实战1-AI生成视频工作流"
+ },
+ {
+  "file": "969008bc-66c5-11f0-afb7-56c537b3051e-v8_f2_t1_XTff4sPq.mp4",
+  "duration_sec": 10149,
+  "platform_time": "2025-07-22 14:32:06",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 1,
+  "lesson_title": "预训练+微调的训练范式 开源生态和OpenAI的差异详解"
+ },
+ {
+  "file": "ce1edea0-92c4-11ef-a649-0e20fb7d9b42-v8_f2_t1_QJZED05O.mp4",
+  "duration_sec": 11481,
+  "platform_time": "2024-10-25 19:32:24",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 2,
+  "lesson_title": "探索神经网络的奥妙"
+ },
+ {
+  "file": "6568f85a-835f-11f0-a0c9-c607d7ae2582-v8_f2_t1_vbaGh76d.mp4",
+  "duration_sec": 7949,
+  "platform_time": "2025-08-28 00:03:39",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 3,
+  "lesson_title": "揭秘Transformer的真面目-1"
+ },
+ {
+  "file": "ae9f96c6-51d9-11f0-be9c-ee408e4270e6-v8_f2_t1_lDO5e9OH.mp4",
+  "duration_sec": 10794,
+  "platform_time": "2025-06-25 23:33:02",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 4,
+  "lesson_title": "揭秘Transformer的真面目-2"
+ },
+ {
+  "file": "699706f4-25d8-11f0-af94-b610279dfdbd-v8_f2_t1_QPoIbxtF.mp4",
+  "duration_sec": 9072,
+  "platform_time": "2025-04-30 23:33:06",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 5,
+  "lesson_title": "多模态领域的Transformer--创意生成的基底原理"
+ },
+ {
+  "file": "75192334-2a8f-11f0-bf6d-2ecfbd935b6c-v8_f2_t1_dAaXRKMd.mp4",
+  "duration_sec": 9498,
+  "platform_time": "2025-05-06 23:33:28",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 6,
+  "lesson_title": "揭开文字、人脸、精密零件、无人驾驶的智能识别面纱"
+ },
+ {
+  "file": "ab2c0f20-2c21-11f0-8150-8615c776cee9-v8_f2_t1_72BrJmwH.mp4",
+  "duration_sec": 9399,
+  "platform_time": "2025-05-08 23:32:36",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 7,
+  "lesson_title": "探索DALL.E、Stable Diffusion如何编织创意图像的魔法"
+ },
+ {
+  "file": "8a3f7512-300f-11f0-8832-fad50a17a232-v8_f2_t1_pOxi25xH.mp4",
+  "duration_sec": 9892,
+  "platform_time": "2025-05-13 23:32:55",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 8,
+  "lesson_title": "类Sora模型 解锁动态视觉艺术的密码"
+ },
+ {
+  "file": "5dce8e0e-aa7d-11ef-b243-9a8e73e2c3ef-v8_f2_t1_MvLvh3ZH.mp4",
+  "duration_sec": 9158,
+  "platform_time": "2024-11-25 00:01:29",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 9,
+  "lesson_title": "人体姿态识别模型-Meta Sapiens"
+ },
+ {
+  "file": "838512ae-69d5-11f0-84cf-1a093f36a842-v8_f2_t1_JSt4mYRv.mp4",
+  "duration_sec": 4060,
+  "platform_time": "2025-07-26 12:03:40",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 10,
+  "lesson_title": "Deepseek性价比之王者后的极致压缩技术MLA"
+ },
+ {
+  "file": "af64715e-69d4-11f0-8d1e-ce567ae67a7a-v8_f2_t1_WC8kWUAF.mp4",
+  "duration_sec": 4736,
+  "platform_time": "2025-07-26 11:57:44",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 11,
+  "lesson_title": "MoE架构在Scaling Law之后继续提升大模型能力"
+ },
+ {
+  "file": "1f52f1aa-a0c9-11ef-92b8-025b3a3e1d61-v8_f2_t1_0abojeit.mp4",
+  "duration_sec": 10834,
+  "platform_time": "2024-11-12 15:38:34",
+  "diff_sec": 1,
+  "course": "原理课",
+  "lesson_no": 12,
+  "lesson_title": "超级引擎:英伟达GPU与CUDA相关的必备知识点"
+ },
+ {
+  "file": "0e5a47a4-69d7-11f0-9e3a-9afdd0ecc9c5-v8_f2_t1_GpS4VDBS.mp4",
+  "duration_sec": 10257,
+  "platform_time": "2025-07-26 12:14:42",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 13,
+  "lesson_title": "推理模型是如何训练出来的-Deepseek R1与V3"
+ },
+ {
+  "file": "ebc6e502-69d7-11f0-b650-6e86452ea730-v8_f2_t1_0Vj6dEOq.mp4",
+  "duration_sec": 8799,
+  "platform_time": "2025-07-26 12:20:54",
+  "diff_sec": 0,
+  "course": "原理课",
+  "lesson_no": 14,
+  "lesson_title": "如何训练自动操作电脑和手机的Agent-智谱AutoGLM"
+ },
+ {
+  "file": "5444969c-83d4-11ee-b533-7a2fa9658cee-v8_f2_t1_FEBpoyuh.mp4",
+  "duration_sec": 8029,
+  "platform_time": "2023-11-16 00:30:46",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 1,
+  "lesson_title": "人工智能基础"
+ },
+ {
+  "file": "026efcc8-8955-11ee-995f-f681c14b1afc-v8_f2_t1_dfpxo3J0.mp4",
+  "duration_sec": 8348,
+  "platform_time": "2023-11-23 00:34:30",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 2,
+  "lesson_title": "深度学习-CNN I"
+ },
+ {
+  "file": "dd979970-8f47-11ee-ac86-d2ddc58f3750-v8_f2_t1_XPxnfE4E.mp4",
+  "duration_sec": 7667,
+  "platform_time": "2023-11-30 14:15:31",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 3,
+  "lesson_title": "深度学习-CNN II"
+ },
+ {
+  "file": "6fc550f6-94bd-11ee-9c2a-baeab88705f1-v8_f2_t1_SpNDvVi6.mp4",
+  "duration_sec": 8525,
+  "platform_time": "2023-12-07 12:59:43",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 4,
+  "lesson_title": "深度学习-RNN/LSTM"
+ },
+ {
+  "file": "1233eae8-99d5-11ee-8e36-369dfcdf72c2-v8_f2_t1_Woj3GFDf.mp4",
+  "duration_sec": 8180,
+  "platform_time": "2023-12-14 00:31:30",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 5,
+  "lesson_title": "深度学习-Transformer【代码】"
+ },
+ {
+  "file": "578ec728-a4d1-11ee-87bc-1e1e1fecfc7c-v8_f2_t1_4X9dnI8x.mp4",
+  "duration_sec": 8669,
+  "platform_time": "2023-12-28 00:02:31",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 6,
+  "lesson_title": "你的第一个自然语言处理流程"
+ },
+ {
+  "file": "44a154ec-aaa7-11ee-a608-b2315942c9e9-v8_f2_t1_97P0xkPV.mp4",
+  "duration_sec": 7068,
+  "platform_time": "2024-01-04 10:16:28",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 7,
+  "lesson_title": "文本表示和语言模型"
+ },
+ {
+  "file": "9322c56a-aea3-11ee-893d-3eb122d888de-v8_f2_t1_CPuRGXBC.mp4",
+  "duration_sec": 7565,
+  "platform_time": "2024-01-09 12:00:06",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 8,
+  "lesson_title": "自然语言处理核心深度网络"
+ },
+ {
+  "file": "a1976dd8-afd1-11ee-84a0-c243f7994253-v8_f2_t1_euwnmVif.mp4",
+  "duration_sec": 8036,
+  "platform_time": "2024-01-11 00:02:18",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 9,
+  "lesson_title": "Word2vec及企业应用实战"
+ },
+ {
+  "file": "df03f7ec-b551-11ee-a957-4282a3e3f6dc-v8_f2_t1_gRtdAmEx.mp4",
+  "duration_sec": 8381,
+  "platform_time": "2024-01-18 00:02:53",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 10,
+  "lesson_title": "注意力机制及注意力机制在企业落地中的应用"
+ },
+ {
+  "file": "267f6d70-b9a0-11ee-8963-2263d6183868-v8_f2_t1_vWQkfcFP.mp4",
+  "duration_sec": 6426,
+  "platform_time": "2024-01-23 11:33:18",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 11,
+  "lesson_title": "大规模预训练模型"
+ },
+ {
+  "file": "5239ab28-bad2-11ee-bf30-fa12f0ae0525-v8_f2_t1_jJELaCgQ.mp4",
+  "duration_sec": 9456,
+  "platform_time": "2024-01-25 00:04:58",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 12,
+  "lesson_title": "大规模预训练模型在工程应用中的改进"
+ },
+ {
+  "file": "8006c7b8-c052-11ee-b538-d2d82a703b2e-v8_f2_t1_ZXJ4a8u1.mp4",
+  "duration_sec": 7977,
+  "platform_time": "2024-02-01 00:05:06",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 13,
+  "lesson_title": "项目一总结:智能客服项目源码解析"
+ },
+ {
+  "file": "0496a136-d0db-11ee-932a-06967c885fa5-v8_f2_t1_1Q0sVxUn.mp4",
+  "duration_sec": 12172,
+  "platform_time": "2024-02-22 01:02:38",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 14,
+  "lesson_title": "大模型必知必会"
+ },
+ {
+  "file": "143483c6-d65b-11ee-beef-8a673c7c76d1-v8_f2_t1_WVIEMkOe.mp4",
+  "duration_sec": 11610,
+  "platform_time": "2024-02-29 01:01:56",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 15,
+  "lesson_title": "向量工程和CVP开发流"
+ },
+ {
+  "file": "21cadc4e-dbdb-11ee-a5e4-f2fbb927d8f3-v8_f2_t1_jfhpeIsS.mp4",
+  "duration_sec": 11024,
+  "platform_time": "2024-03-07 01:01:10",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 16,
+  "lesson_title": "增强大模型能力"
+ },
+ {
+  "file": "8727f56c-e6db-11ee-8c45-66cc1c856be1-v8_f2_t1_pGt3RwSB.mp4",
+  "duration_sec": 11590,
+  "platform_time": "2024-03-21 01:01:43",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 17,
+  "lesson_title": "知识图谱技术概览"
+ },
+ {
+  "file": "92cd91da-ec5b-11ee-ad9e-e6f1b553f5d3-v8_f2_t1_S2TUEXkE.mp4",
+  "duration_sec": 11615,
+  "platform_time": "2024-03-28 01:00:54",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 18,
+  "lesson_title": "使用DeepKE-LLM大模型进行知识图谱构建"
+ },
+ {
+  "file": "d93b9064-f8ee-11ee-a70e-fea61453f8b4-v8_f2_t1_vXSfwblQ.mp4",
+  "duration_sec": 11575,
+  "platform_time": "2024-04-13 01:05:22",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 19,
+  "lesson_title": "大模型训练的Pipeline"
+ },
+ {
+  "file": "1647f3ee-fcdc-11ee-b048-1ee09181cd48-v8_f2_t1_15CY2lLQ.mp4",
+  "duration_sec": 13229,
+  "platform_time": "2024-04-18 01:01:09",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 20,
+  "lesson_title": "Retrieval Augmented Generation (RAG)"
+ },
+ {
+  "file": "5156a022-025c-11ef-91e1-1676973ccad0-v8_f2_t1_u6OS6gs0.mp4",
+  "duration_sec": 11730,
+  "platform_time": "2024-04-25 01:01:39",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 21,
+  "lesson_title": "长度外推的解决方法.SOTA ROPE"
+ },
+ {
+  "file": "96d9f26a-0d5c-11ef-9906-de4e4d510a4f-v8_f2_t1_uYURnf9G.mp4",
+  "duration_sec": 11161,
+  "platform_time": "2024-05-09 01:01:19",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 22,
+  "lesson_title": "多跳问题的解决方法.ReAct"
+ },
+ {
+  "file": "f710d21c-13a5-11ef-897f-ce1af1afc313-v8_f2_t1_A99RqgNE.mp4",
+  "duration_sec": 11845,
+  "platform_time": "2024-05-17 01:01:40",
+  "diff_sec": 0,
+  "course": "算法课",
+  "lesson_no": 23,
+  "lesson_title": "训练框架DeepSpeed强化"
+ }
+]
