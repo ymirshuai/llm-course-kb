@@ -117,6 +117,10 @@ Windows 直连超时可加 gh-proxy 镜像前缀下载。
 - `get_lesson_outline(lesson)` — 某课带时间锚点的章节大纲
 - `get_segment(lesson, begin_sec, end_sec)` — 按时间区间回读逐字稿原话
 
+### 5. （可选）装触发 Skill
+
+把 [`skill/SKILL.md`](skill/SKILL.md) 复制到你 AI 助手的用户级 skills 目录（WorkBuddy 为 `~/.workbuddy/skills/llm-course-kb/`），之后对话涉及 AI/LLM 原理、技术选型时助手会**自动查询课程知识库**（含 Qdrant 未启动时自动拉起、MCP 不可用时降级 CLI/文件直读的完整链路）。按注释把示例路径改成你自己的 clone 位置即可。
+
 ## 检索设计要点
 
 - **两层双路**：语义检索跑在大纲层（抗口语稀释），关键词 BM25 + 语义跑在子块层（抓报错信息、API 名等细节），RRF 融合后取父块原文。
