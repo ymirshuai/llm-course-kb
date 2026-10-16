@@ -1,7 +1,7 @@
 {
  "generated_at": "2026-09-25 23:54:02",
- "total_files": 71,
- "total_duration_sec": 653430,
+ "total_files": 76,
+ "total_duration_sec": 705788,
  "cohorts": {
   "2026": [
    {
@@ -1499,6 +1499,56 @@
    "module": 1,
    "lesson_no_official": 2,
    "official_title": "从提示工程到RAG：构建大模型的知识与交互基础"
+  },
+  {
+   "file": "24-部分场景中可以取代RAG的技术.mp4",
+   "size_mb": 299.2,
+   "duration_sec": 9415,
+   "platform_time": "2026-09-26 00:09:17",
+   "cohort": "2026",
+   "lesson_no": "24",
+   "lesson_title": "部分场景中可以取代RAG的技术",
+   "confidence": "课表排除法(唯一缺失录像M4L6)+UUID时间吻合"
+  },
+  {
+   "file": "25-LLM Wiki.mp4",
+   "size_mb": 479.2,
+   "duration_sec": 10652,
+   "platform_time": "2026-09-29 00:09:23",
+   "cohort": "2026",
+   "lesson_no": "25",
+   "lesson_title": "LLM Wiki",
+   "confidence": "课表时间匹配(M4L7 9-28晚直播, 录像9-29 00:09生成)"
+  },
+  {
+   "file": "26-RAG相关简历+面试问题辅导.mp4",
+   "size_mb": 412.1,
+   "duration_sec": 10633,
+   "platform_time": "2026-10-01(课表10-01开播)",
+   "cohort": "2026",
+   "lesson_no": "26",
+   "lesson_title": "RAG相关简历+面试问题辅导",
+   "confidence": "课表M4L8+官方文件名"
+  },
+  {
+   "file": "L27-大厂优秀工程师使用AI Coding的最新方法与经验.mp4",
+   "size_mb": 365.2,
+   "duration_sec": 10378,
+   "platform_time": "未知",
+   "cohort": "2026",
+   "lesson_no": "27",
+   "lesson_title": "大厂优秀工程师使用AI Coding的最新方法与经验",
+   "confidence": "官方课表截图10-15: 模块五第1节(直播回放已完成)"
+  },
+  {
+   "file": "28-大型软件项目的AI开发与AI重构.mp4",
+   "size_mb": 373.8,
+   "duration_sec": 11280,
+   "platform_time": "2026-10-16 00:09:57",
+   "cohort": "2026",
+   "lesson_no": "28",
+   "lesson_title": "大型软件项目的AI开发与AI重构",
+   "confidence": "课表时间匹配(M5L2 10-15晚直播, 录像10-16 00:09生成)"
   }
  ],
  "bonus_matched": 48

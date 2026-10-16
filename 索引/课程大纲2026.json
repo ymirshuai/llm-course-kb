@@ -1,58 +1,294 @@
 {
-  "course_name": "大模型应用开发就业实战训练营（2026期）",
-  "source": "用户 2026-09-26 提供的平台课表截图（官方标题）",
-  "modules": [
+ "course_name": "大模型应用开发就业实战训练营（2026期）",
+ "source": "用户 2026-09-26 提供的平台课表截图（官方标题）",
+ "modules": [
+  {
+   "module": 1,
+   "lessons": [
     {
-      "module": 1,
-      "lessons": [
-        {"no": 1, "title": "开班典礼", "video": "L00", "status": "已下载"},
-        {"no": 2, "title": "从提示工程到RAG：构建大模型的知识与交互基础", "video": "提示词工程到RAG.mp4", "status": "已下载"},
-        {"no": 3, "title": "Agent：从可控性到自主反思", "video": "L01", "status": "已下载(课号推定，待内容校验)"},
-        {"no": 4, "title": "多模态前沿：从Agent构建到视频AIGC", "video": "L02", "status": "已下载(课号推定，待内容校验)"},
-        {"no": 5, "title": "AI大模型基本原理及API使用", "video": "L05", "status": "已下载", "课件": "课件/05-AI大模型原理与API使用"},
-        {"no": 6, "title": "AI编程-从入门到精通", "video": "L06", "status": "已下载", "课件": "课件/06-AI编程-从入门到精通"}
-      ]
+     "no": 1,
+     "title": "开班典礼",
+     "video": "L00",
+     "status": "已下载"
     },
     {
-      "module": 2,
-      "lessons": [
-        {"no": 1, "title": "LangChain：多任务应用开发", "video": "L07", "status": "已下载", "课件": "课件/07-LangChain"},
-        {"no": 2, "title": "AI框架设计与选型", "video": "L08", "status": "已下载", "课件": "课件/08-AI框架选型"},
-        {"no": 3, "title": "HuggingFace生态实战：从模型应用到高效微调", "video": "L09", "status": "已下载", "课件": "课件/09-HuggingFace"},
-        {"no": 4, "title": "神经网络基础与Tensorflow实战", "video": "L10", "status": "已下载", "课件": "课件/10-神经网络基础"},
-        {"no": 5, "title": "Pytorch与视觉检测", "video": "L11", "status": "已下载", "课件": "课件/11-Pytorch与视觉检测"},
-        {"no": 6, "title": "开发框架相关简历+面试问题辅导", "video": "L12", "status": "已下载", "课件": "课件/12-开发框架简历面试辅导"}
-      ]
+     "no": 2,
+     "title": "从提示工程到RAG：构建大模型的知识与交互基础",
+     "video": "提示词工程到RAG.mp4",
+     "status": "已下载"
     },
     {
-      "module": 3,
-      "lessons": [
-        {"no": 1, "title": "LLM微调原理", "video": "L13", "status": "已下载", "课件": "课件/13-LLM微调原理"},
-        {"no": 2, "title": "高质量微调数据工程与评估", "video": "L14", "status": "已下载", "课件": "课件/14-高质量微调数据工程与评估"},
-        {"no": 3, "title": "LLM模型蒸馏与微调实操", "video": "L15", "status": "已下载", "课件": "课件/15-模型蒸馏"},
-        {"no": 4, "title": "视觉与多模态模型", "video": "L16", "status": "已下载", "课件": "课件缺失（原16课缺口）"},
-        {"no": 5, "title": "AI质检", "video": "L17", "status": "已下载", "课件": "课件/17-AI质检"},
-        {"no": 6, "title": "模型训练与微调相关简历+面试问题辅导", "video": "L18", "status": "已下载", "课件": "课件/18-模型训练与微调简历面试辅导"}
-      ]
+     "no": 3,
+     "title": "Agent：从可控性到自主反思",
+     "video": "L01",
+     "status": "已下载(课号推定，待内容校验)"
     },
     {
-      "module": 4,
-      "lessons": [
-        {"no": 1, "title": "Embeddings和向量数据库", "video": "L19", "status": "已下载", "课件": "课件/19-Embeddings和向量数据库"},
-        {"no": 2, "title": "RAG技术与应用", "video": "L20", "status": "已下载", "课件": "课件/20-RAG技术与应用"},
-        {"no": 3, "title": "RAG多模态数据处理", "video": "L21", "status": "已下载", "课件": "课件/21-RAG多模态数据处理"},
-        {"no": 4, "title": "RAG调优", "video": "L22", "status": "已下载", "课件": "课件/22-RAG高级技术与调优"},
-        {"no": 5, "title": "企业知识库（企业RAG大赛冠军项目）", "video": "L23", "status": "已下载", "课件": "课件/23-项目实战：企业知识库"},
-        {"no": 6, "title": "部分场景中可以取代RAG的技术", "video": null, "status": "已结束但录像暂不可下载，待平台开放后补下载"},
-        {"no": 7, "title": "LLM Wiki", "video": null, "status": "未开播（2026-09-28 20:00）"},
-        {"no": 8, "title": "RAG相关简历+面试问题辅导", "video": null, "status": "未开播（2026-10-01 20:00）"}
-      ]
+     "no": 4,
+     "title": "多模态前沿：从Agent构建到视频AIGC",
+     "video": "L02",
+     "status": "已下载(课号推定，待内容校验)"
+    },
+    {
+     "no": 5,
+     "title": "AI大模型基本原理及API使用",
+     "video": "L05",
+     "status": "已下载",
+     "课件": "课件/05-AI大模型原理与API使用"
+    },
+    {
+     "no": 6,
+     "title": "AI编程-从入门到精通",
+     "video": "L06",
+     "status": "已下载",
+     "课件": "课件/06-AI编程-从入门到精通"
     }
-  ],
-  "inventory": {
-    "videos_downloaded": 23,
-    "lessons_total": 26,
-    "missing_now": ["M4L6 部分场景中可以取代RAG的技术（录像未开放）"],
-    "future": ["M4L7 LLM Wiki (09-28)", "M4L8 RAG相关简历+面试问题辅导 (10-01)"]
+   ]
+  },
+  {
+   "module": 2,
+   "lessons": [
+    {
+     "no": 1,
+     "title": "LangChain：多任务应用开发",
+     "video": "L07",
+     "status": "已下载",
+     "课件": "课件/07-LangChain"
+    },
+    {
+     "no": 2,
+     "title": "AI框架设计与选型",
+     "video": "L08",
+     "status": "已下载",
+     "课件": "课件/08-AI框架选型"
+    },
+    {
+     "no": 3,
+     "title": "HuggingFace生态实战：从模型应用到高效微调",
+     "video": "L09",
+     "status": "已下载",
+     "课件": "课件/09-HuggingFace"
+    },
+    {
+     "no": 4,
+     "title": "神经网络基础与Tensorflow实战",
+     "video": "L10",
+     "status": "已下载",
+     "课件": "课件/10-神经网络基础"
+    },
+    {
+     "no": 5,
+     "title": "Pytorch与视觉检测",
+     "video": "L11",
+     "status": "已下载",
+     "课件": "课件/11-Pytorch与视觉检测"
+    },
+    {
+     "no": 6,
+     "title": "开发框架相关简历+面试问题辅导",
+     "video": "L12",
+     "status": "已下载",
+     "课件": "课件/12-开发框架简历面试辅导"
+    }
+   ]
+  },
+  {
+   "module": 3,
+   "lessons": [
+    {
+     "no": 1,
+     "title": "LLM微调原理",
+     "video": "L13",
+     "status": "已下载",
+     "课件": "课件/13-LLM微调原理"
+    },
+    {
+     "no": 2,
+     "title": "高质量微调数据工程与评估",
+     "video": "L14",
+     "status": "已下载",
+     "课件": "课件/14-高质量微调数据工程与评估"
+    },
+    {
+     "no": 3,
+     "title": "LLM模型蒸馏与微调实操",
+     "video": "L15",
+     "status": "已下载",
+     "课件": "课件/15-模型蒸馏"
+    },
+    {
+     "no": 4,
+     "title": "视觉与多模态模型",
+     "video": "L16",
+     "status": "已下载",
+     "课件": "课件缺失（原16课缺口）"
+    },
+    {
+     "no": 5,
+     "title": "AI质检",
+     "video": "L17",
+     "status": "已下载",
+     "课件": "课件/17-AI质检"
+    },
+    {
+     "no": 6,
+     "title": "模型训练与微调相关简历+面试问题辅导",
+     "video": "L18",
+     "status": "已下载",
+     "课件": "课件/18-模型训练与微调简历面试辅导"
+    }
+   ]
+  },
+  {
+   "module": 4,
+   "lessons": [
+    {
+     "no": 1,
+     "title": "Embeddings和向量数据库",
+     "video": "L19",
+     "status": "已下载",
+     "课件": "课件/19-Embeddings和向量数据库"
+    },
+    {
+     "no": 2,
+     "title": "RAG技术与应用",
+     "video": "L20",
+     "status": "已下载",
+     "课件": "课件/20-RAG技术与应用"
+    },
+    {
+     "no": 3,
+     "title": "RAG多模态数据处理",
+     "video": "L21",
+     "status": "已下载",
+     "课件": "课件/21-RAG多模态数据处理"
+    },
+    {
+     "no": 4,
+     "title": "RAG调优",
+     "video": "L22",
+     "status": "已下载",
+     "课件": "课件/22-RAG高级技术与调优"
+    },
+    {
+     "no": 5,
+     "title": "企业知识库（企业RAG大赛冠军项目）",
+     "video": "L23",
+     "status": "已下载",
+     "课件": "课件/23-项目实战：企业知识库"
+    },
+    {
+     "no": 6,
+     "title": "部分场景中可以取代RAG的技术",
+     "video": "L24",
+     "status": "已下载"
+    },
+    {
+     "no": 7,
+     "title": "LLM Wiki",
+     "video": "L25",
+     "status": "已下载"
+    },
+    {
+     "no": 8,
+     "title": "RAG相关简历+面试问题辅导",
+     "video": "L26",
+     "status": "已下载"
+    }
+   ]
+  },
+  {
+   "module": 6,
+   "lessons": [
+    {
+     "no": 1,
+     "title": "Function Calling与MCP",
+     "video": "L29",
+     "status": "未开播（2026-10-26 20:00）"
+    },
+    {
+     "no": 2,
+     "title": "Agent的自主规划与工具开发",
+     "video": "L30",
+     "status": "未开播（2026-10-29 20:00）"
+    },
+    {
+     "no": 3,
+     "title": "Agent的能力优化与效果评估",
+     "video": "L31",
+     "status": "未开播（2026-11-02 20:00）"
+    },
+    {
+     "no": 4,
+     "title": "OpenManus开发实战",
+     "video": "L32",
+     "status": "未开播（2026-11-05 20:00）"
+    },
+    {
+     "no": 5,
+     "title": "Harness Engineering",
+     "video": "L33",
+     "status": "未开播（2026-11-09 20:00）"
+    },
+    {
+     "no": 6,
+     "title": "搭建Hermes Agent中的长期记忆和自进化能力",
+     "video": "L34",
+     "status": "未开播（2026-11-12 20:00）"
+    },
+    {
+     "no": 7,
+     "title": "实现Hermes中的多Agent协作、主Agent调度",
+     "video": "L35",
+     "status": "未开播（2026-11-16 20:00）"
+    },
+    {
+     "no": 8,
+     "title": "Agent相关简历+面试问题辅导",
+     "video": "L36",
+     "status": "未开播（2026-11-19 20:00）"
+    }
+   ]
+  },
+  {
+   "module": 7,
+   "lessons": [
+    {
+     "no": 1,
+     "title": "企业级AI部署：从硬件选型到框架选择",
+     "video": "L36",
+     "status": "未开播（2026-11-23 20:00）"
+    },
+    {
+     "no": 2,
+     "title": "AI服务核心：高并发原理与性能监控调优",
+     "video": "L37",
+     "status": "未开播（2026-11-26 20:00）"
+    },
+    {
+     "no": 3,
+     "title": "SGLang 深度优化：Radix 缓存与复杂任务的极致吞吐",
+     "video": "L38",
+     "status": "未开播（2026-11-30 20:00）"
+    },
+    {
+     "no": 4,
+     "title": "短剧视频逐帧换脸的显卡资源分配及排队系统",
+     "video": "L39",
+     "status": "未开播（2026-12-03 20:00）"
+    }
+   ]
   }
+ ],
+ "inventory": {
+  "videos_downloaded": 23,
+  "lessons_total": 26,
+  "missing_now": [
+   "M4L6 部分场景中可以取代RAG的技术（录像未开放）"
+  ],
+  "future": [
+   "M4L7 LLM Wiki (09-28)",
+   "M4L8 RAG相关简历+面试问题辅导 (10-01)"
+  ]
+ }
 }
